@@ -1,27 +1,20 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Juana Isola is a creative writer and fashion entrepreneur from Buenos Aires, Argentina. After finishing her studies in Social Communication in Universidad Austral, she launched her own company called [**Banana Fish**][bf]. She creates handmade leather shoes inspired in the model she used to wear for school, along with other products also related to childhood uniforms.
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Juana writes short stories and published two books: **Hay que tener una mesa larga** by Editorial Gigante and **Automac** by Editorial Drive. She also participates as a screenwriter and/or director in different projects such as advertising campaigns, musics videos and art performances.
+
+Check out her work.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Say `Hello` at [isolajuana@gmail.com](mailto:isolajuana@gmail.com) or find me on [Tumblr][tumblr] / [Instagram][instagram].
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[bf]: http://www.bananafishzapatos.com
+[tumblr]: http://thejuanabanana.tumblr.com/
+[instagram]: https://instagram.com/thejuanabanana

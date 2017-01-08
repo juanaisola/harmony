@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl:
 
 # Site live URL
 #url: http://gayan.me
@@ -11,11 +11,10 @@ url: http://127.0.0.1:4000
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Juana's Portfolio
+  name: Juana Isola
   # Little description about your site
-  description: Juana Isola's Portfolio.
-  meta_description: > #
-  Juana Isola is a creative writer and a fashion entrepreneur from Buenos Aires Argentina.
+  description: Raised by television in the 90's
+  meta_description: Juana Isola is a creative writer and a fashion entrepreneur from Buenos Aires Argentina.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Javier Velazquez Traut
@@ -27,14 +26,10 @@ harmony:
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest: 
+    tumblr: thejuanabanana
+    instagram: thejuanabanana
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
 
 # Conversion / Build settings 
 markdown: kramdown
