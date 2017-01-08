@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Automac"
+date:   2015-11-01
+description: Second book published.
+categories:
+- book
+- publication
+---
+
+**Automac (ten drive through texts)** is a compilation of short stories by Juana Isola and Mateo Mortola. Published by [Drive][d] in 2015.
+
+![Automac]({{ site.url }}/assets/images/automac.jpg)
+
+[d]: https://www.facebook.com/driveandpublishers/

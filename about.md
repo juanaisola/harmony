@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Juana]({{ site.url }}/assets/images/juana.jpg){:style="float: right; height: 400px; margin: 5px;"}
 
 Juana Isola is a creative writer and fashion entrepreneur from Buenos Aires, Argentina. After finishing her studies in Social Communication in Universidad Austral, she launched her own company called [**Banana Fish**][bf]. She creates handmade leather shoes inspired in the model she used to wear for school, along with other products also related to childhood uniforms.
 
