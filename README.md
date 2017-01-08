@@ -1,4 +1,4 @@
-# Harmony
+# Based on Harmony
 
 Harmony is a responsive jekyll theme. 
 
