@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Q&A"
+date:   2015-05-01
+description: A series of videos made out from different answers of random people who were asked the same question.
+categories:
+- questions
+- youtube
+---
+
+A series of videos made out from different answers of random people who were asked the same question.

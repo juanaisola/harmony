@@ -14,3 +14,8 @@ title: Writing archive
   		{% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 {% endfor %}
+<br>
+<br>
+<div class="post-footer">
+    <div class="column-full">More stuff and updates in Juana’s personal blog: <a href="http://thejuanabanana.tumblr.com/">thejuanabanana.tumblr.com</a></div>
+</div>
