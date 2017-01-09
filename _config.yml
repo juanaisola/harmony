@@ -13,7 +13,8 @@ url: http://juanaisola.github.io
 harmony:
   name: Juana Isola
   # Little description about your site
-  description: Raised by television in the 90's
+  description: Born in Buenos Aires
+  description_alt: Raised by television in the 90's
   meta_description: Juana Isola is a creative writer and a fashion entrepreneur from Buenos Aires Argentina.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
