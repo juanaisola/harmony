@@ -8,7 +8,7 @@ categories:
 - novel
 ---
 
-<img align="right" src="{{ site.url }}/assets/images/diarios-flyer.jpg" style="float: right; height: 400px; margin: 5px;">
+<img align="right" src="{{ site.url }}/assets/images/diarios-flyer.jpg" style="float: right; height: 350px; margin: 20px;">
 
 Once every two months, Banana Fish helds an open mic event where actors, musicians or writers are invited to share their Dear Diary writings.
 
